@@ -871,6 +871,8 @@ a:hover {
 }
 
 .contact-mf {
+	width: 32rem;
+	display: inline-block;
 	margin-top: 4rem;
 }
 
